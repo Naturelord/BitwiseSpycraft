@@ -28,11 +28,12 @@ private void readImage()
 
 public void hideData(String message)
 {
-	
+	// EncodeImage encoder = new EncodeImage(this);
 }
 
 public String recoverData()
 {
+	// DecodeImage decoder = new DecodeImage(this);
 	return "";
 }
 
