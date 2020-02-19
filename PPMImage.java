@@ -9,6 +9,7 @@ private int height;
 private int maxColorValue;
 private char[][][] raster;
 private File InputImage;
+
 public PPMImage(File image)
 {
 	// Validate that the given File is a PPM image
